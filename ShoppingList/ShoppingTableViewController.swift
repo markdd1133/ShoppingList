@@ -3,7 +3,7 @@
 //  ShoppingList
 //
 //  Created by Sheng Chi Chen on 2017/4/21.
-//  Copyright © 2017年 Sheng Chi Chen. All rights reserved.
+//  Copyright © 2017年 Sheng Chi Chen. All rights reserved..
 //
 
 import UIKit
