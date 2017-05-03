@@ -9,7 +9,7 @@
 import UIKit
 
 class ShoppingTableViewController: UITableViewController {
-    var shoppingItems = [String]()
+    var shoppingItems:[String] = []
     
     @IBAction func addItem(_ sender: UIBarButtonItem) {
         popUpAlertWithDefault(nil){
